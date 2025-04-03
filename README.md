@@ -8,6 +8,7 @@ This repository contains the materials for your upcoming technical interview. Pl
 - Review the code in your preferred language (Java, Python, or TypeScript)
 - Install the required tools listed in the project's README.md
 - Be ready to share your screen during the interview
+- Confirm that the docker build commands work on your machine before the interview
 
 ## Interview Format
 The interview will be conducted via video call with your camera enabled. The session will be recorded for internal review purposes only and deleted after a hiring decision is made.
